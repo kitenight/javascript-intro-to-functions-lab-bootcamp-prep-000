@@ -23,17 +23,15 @@ function sayHiToGrandma (string) {
   return 'I can\'t hear you!'}
 }
 
-sayHiToGrandma()
+
 
 function sayHiToGrandma (string) {
   if (string.toUpperCase()) {
     return "YES INDEED!"
   }
 }
-sayHiToGrandma()
 
 function sayHiToGrandma (string) {
   if (string === "I love you, Grandma") {
     return "I love you, too."}
 }
-sayHiToGrandma()
